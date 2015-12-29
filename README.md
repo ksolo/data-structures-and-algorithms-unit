@@ -27,4 +27,3 @@ Data Structures:
  *  [Hashes](../../../data-structures-hash-challenge)
  *  [Maze Solver Challenge](../../../maze-solver-challenge)
  *  [A* Challenge](../../../a-star-challenge)
- *  [A* to Javascript](../../../a-star-dot-js)
